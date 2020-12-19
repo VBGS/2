@@ -1,5 +1,5 @@
 # What is this?
-This is a set of programs to quickly converst numbers in base 2, 4, 8, 10 or 16 to numbers in base 2, 4, 8 or 16.
+This is a set of programs to quickly convert numbers in base 2, 4, 8, 10 or 16 to numbers in base 2, 4, 8 or 16.
 
 # How to install it?
 ```sh
